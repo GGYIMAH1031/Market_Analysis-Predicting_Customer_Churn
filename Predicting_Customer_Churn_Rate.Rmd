@@ -2,8 +2,11 @@
 title: "Market Analysis - Predicting Customer Churn"
 author: "Godfred Somua-Gyimah"
 date: "January 20, 2017"
-output: 
-  pdf_document: 
+output:
+  html_document:
+    toc: yes
+    toc_depth: '3'
+  pdf_document:
     toc: yes
     toc_depth: 3
 ---
