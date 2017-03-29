@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 rm(list = ls())	
 	
 # Read data file	
-df <- read.csv("G:/Dropboxx/PhD Mining Engineering/Coursework/08SP2017/IST 5420 - Business Analytics & Data Science/Lecture Notes/Telco-Customer-Churn.csv")	
+df <- read.csv("F:/Data_Science_Files/Github/Market_Analysis-Predicting_Customer_Churn/Telco-Customer-Churn.csv")	
 #' 	
 #' 	
 #' # Explore Data	
